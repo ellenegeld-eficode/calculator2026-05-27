@@ -12,7 +12,7 @@ A simple calculator web application with separated UI and logic, plus automated 
 
 ## Prerequisites
 
-- Node.js 18+
+- Node.js 20.19.0+
 - npm
 
 ## Install Dependencies
